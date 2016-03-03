@@ -1,0 +1,16 @@
+public class week4lab {
+
+    public static void main(String[] args) {
+       
+        System.out.println("Hungry");
+	System.out.println("Get in line");
+	System.out.println("buy lunch");
+	System.out.println("If thirsty buy diet coke if had breakfast otherwise buy coke, else get water");
+	System.out.println("Eat lunch");
+	System.out.println("Return tray");
+	System.out.println("Leave");
+
+
+    }
+
+}
